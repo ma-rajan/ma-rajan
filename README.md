@@ -26,7 +26,7 @@
 
 ### 📈 My Progress
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ma-rajan&theme=dracula&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ma-rajan&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
 </p>
 
 <div align="center">

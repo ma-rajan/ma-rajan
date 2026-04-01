@@ -26,7 +26,7 @@
 
 ### 📈 My Progress
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=dracula&hide_border=true&area=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ma-rajan&theme=dracula&hide_border=true&area=true" width="100%" />
 </p>
 
 <div align="center">

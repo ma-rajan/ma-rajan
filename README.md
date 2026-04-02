@@ -26,17 +26,17 @@
 
 ### 📈 My Progress
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dracula&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ma-rajan&theme=dracula&hide_border=true" />
 </p>
 
 <div align="center">
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dracula&hide_border=true" height="150"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=ma-rajan&show_icons=true&theme=dracula&hide_border=true" height="150"/>
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dracula&hide_border=true" height="150"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ma-rajan&layout=compact&theme=dracula&hide_border=true" height="150"/>
       </td>
     </tr>
   </table>
@@ -47,15 +47,15 @@
 ### 🐍 Contribution Snake
 <picture>
   <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg">
+    srcset="https://raw.githubusercontent.com/ma-rajan/ma-rajan/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg">
+    srcset="https://raw.githubusercontent.com/ma-rajan/ma-rajan/output/github-contribution-grid-snake.svg">
   <img alt="github contribution snake"
-    src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg">
+    src="https://raw.githubusercontent.com/ma-rajan/ma-rajan/output/github-contribution-grid-snake.svg">
 </picture>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=ce93d8&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=ma-rajan&label=Profile%20Views&color=ce93d8&style=flat" />
 </p>

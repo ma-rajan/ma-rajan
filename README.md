@@ -47,6 +47,3 @@
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ma-rajan&label=Profile%20Views&color=ce93d8&style=flat" />
-</p>

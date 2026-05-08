@@ -4,7 +4,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hey%20There!%20I'm%20Rajan%20👋&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=IT%20Student%20%7C%20Developer%20%7C%20Creator&descAlignY=58&descSize=18&animation=fadeIn)
 
 <!-- Typing SVG Banner -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!+🚀;IT+Student+from+Nepal+🇳🇵;Aspiring+Full+Stack+Developer+🌐;YouTuber+%40+WeGrow+Together+🎬)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!+🚀;IT+Student+from+Nepal+🇳🇵;Aspiring+Full+Stack+Developer+🌐;YouTuber+%40+WeGrow+Together+🎬)]()
 
 <br/>
 

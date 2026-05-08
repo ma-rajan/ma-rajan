@@ -10,7 +10,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/ma-rajan?style=for-the-badge&logo=github&logoColor=white&color=6e40c9&labelColor=0d1117)](https://github.com/ma-rajan?tab=followers)
 ![Profile Views](https://komarev.com/ghpvc/?username=ma-rajan&style=for-the-badge&color=6e40c9&labelColor=0d1117&label=PROFILE+VIEWS)
-[![YouTube](https://img.shields.io/badge/YouTube-WeGrow%20Together-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=0d1117)](https://youtube.com/@WeGrowTogether)
+[![YouTube](https://img.shields.io/badge/YouTube-WeGrow%20Together-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=0d1117)]
 
 </div>
 
@@ -36,7 +36,7 @@
 
 🎓 &nbsp; **IT Student** grinding toward my goals <br/>
 💻 &nbsp; Passionate about **coding & problem solving** <br/>
-📺 &nbsp; YouTuber at **[WeGrow Together](https://youtube.com/@WeGrowTogether)** <br/>
+📺 &nbsp; YouTuber at **[WeGrow Together]()** <br/>
 🔥 &nbsp; Building projects and improving **daily** <br/>
 🌱 &nbsp; Learning **Java · DSA · Linux · React** <br/>
 🎯 &nbsp; Goal: **Full Stack Developer** <br/>
@@ -101,58 +101,15 @@
 
 <div align="center">
 
-## 🚀 Featured Projects
-
-</div>
-
-<br/>
-
-<div align="center">
-
-[![DSA Repo](https://github-readme-stats.vercel.app/api/pin/?username=ma-rajan&repo=DSA-Java&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a855f7&icon_color=6e40c9)](https://github.com/ma-rajan)
-[![Java Programs](https://github-readme-stats.vercel.app/api/pin/?username=ma-rajan&repo=Java-Programs&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a855f7&icon_color=6e40c9)](https://github.com/ma-rajan)
-
-</div>
-
-<br/>
-
-<div align="center">
-
-| 📁 Project | 📝 Description | 🔧 Stack |
-|:---|:---|:---:|
-| 🧩 **DSA Practice** | Algorithms & data structures solved in Java | `Java` |
-| ☕ **Java Programs** | Beginner to intermediate Java programs | `Java` |
-| 🌐 **Web Projects** | HTML · CSS · JS mini projects | `HTML` `CSS` `JS` |
-| 📺 **WeGrow Together** | YouTube — sharing my learning journey | `Education` |
-
-</div>
-
----
-
-<div align="center">
-
 ## 🌐 Let's Connect
 
 [![GitHub](https://img.shields.io/badge/GitHub-ma--rajan-6e40c9?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/ma-rajan)
-[![YouTube](https://img.shields.io/badge/YouTube-WeGrow%20Together-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=0d1117)](https://youtube.com/@WeGrowTogether)
-[![Email](https://img.shields.io/badge/Email-Drop%20a%20Mail-a855f7?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:rajan@email.com)
+[![YouTube](https://img.shields.io/badge/YouTube-WeGrow%20Together-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=0d1117)]()
+[![Email](https://img.shields.io/badge/Email-Drop%20a%20Mail-a855f7?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:rajancdy14@email.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Coming%20Soon-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](#)
 
 </div>
 
----
-
-<div align="center">
-
-## 💬 What Drives Me
-
-> *"The secret to getting ahead is getting started."* — **Mark Twain** 🔥
-
-> *"First, solve the problem. Then, write the code."* — **John Johnson** 💡
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
-
-</div>
 
 ---
 
@@ -169,8 +126,6 @@
 <!-- Capsule Footer -->
 <div align="center">
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=130&section=footer&text=Thanks%20for%20stopping%20by!%20⭐%20Drop%20a%20follow!&fontSize=20&fontColor=ffffff&fontAlignY=65&animation=fadeIn)
-
-*Made with ❤️ from Nepal 🇳🇵 | © Rajan [@ma-rajan](https://github.com/ma-rajan)*
+* Nepal 🇳🇵 | © Rajan [@ma-rajan](https://github.com/ma-rajan)*
 
 </div>

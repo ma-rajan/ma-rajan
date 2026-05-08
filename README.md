@@ -28,7 +28,7 @@
 <tr>
 <td width="55%">
 
-### 🧑‍💻 Rajan — Nepal 🇳🇵
+### 🧑‍💻 Rajan
 
 > A passionate **IT student** on a mission to become a skilled **Full Stack Developer**. I love solving problems through code, learning something new every single day, and sharing my journey on YouTube.
 

@@ -85,22 +85,6 @@
 
 <div align="center">
 
-## 📊 Skill Progress
-
-| Skill | Level | Progress |
-|:---:|:---:|:---:|
-| ☕ Java | Intermediate | ![65%](https://progress-bar.xyz/65/?scale=100&width=150&color=6e40c9&suffix=%25) |
-| 🌐 Web Development | Beginner+ | ![55%](https://progress-bar.xyz/55/?scale=100&width=150&color=a855f7&suffix=%25) |
-| ⚛️ React | Beginner | ![30%](https://progress-bar.xyz/30/?scale=100&width=150&color=61dafb&suffix=%25) |
-| 🐧 Linux | Intermediate | ![45%](https://progress-bar.xyz/45/?scale=100&width=150&color=fcc624&suffix=%25) |
-| 🔐 Cybersecurity | Explorer | ![20%](https://progress-bar.xyz/20/?scale=100&width=150&color=ff6b6b&suffix=%25) |
-
-</div>
-
----
-
-<div align="center">
-
 ## 🌐 Let's Connect
 
 [![GitHub](https://img.shields.io/badge/GitHub-ma--rajan-6e40c9?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/ma-rajan)

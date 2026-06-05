@@ -1,99 +1,88 @@
-# Namaste 👋, I'm Rajan
+# Konichiwa 👋
 
 <div align="center">
-  <h3>BCA Student | Aspiring Full-Stack Developer | React Learner</h3>
+<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/208593.gif">
 </div>
 
----
+</br>
+</br>
+</br>
 
-## 👨‍💻 About Me
 
-- 🎓 BCA Student at Birendra Multiple Campus
-- 🌱 Currently learning React.js and MERN Stack
-- 🐧 Linux Enthusiast (planning to switch fully from Windows)
-- 🎥 Creator of the YouTube channel **WeGrow**
-- 💡 Interested in Web Development and Open Source
-- 📚 Improving my programming and spelling skills
+# About ME 💬 :
 
----
+### - Hi, I'm Rajan 
 
-## 🚀 Currently Learning
+A BCA student and aspiring web developer passionate about coding, Linux, and modern web technologies. Currently learning React.js and building projects to grow my skills.
 
-- ⚛️ React.js
-- 🌐 MERN Stack
-- 🗄️ MongoDB
-- 📜 JavaScript
-- 🐧 Linux & Hyprland
+<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
 
----
+### - Learning :
+- ✨ React.js
+- ✨ Linux
+- ✨ Web Development
 
-## 🎯 Hobbies
+### - Hobbies : 
+- ✨ Gaming Addict
+- ✨ Watching Anime
+- ✨ Reading Light Novels
+- ✨ vollyball
 
-- 🎥 Making YouTube Videos
-- 💻 Coding
-- 📖 Learning New Technologies
-- 🎮 Gaming
-- 😂 Creating Jokes & Skits
+</br>
+</br>
+</br>
 
----
 
-## 🛠️ Languages & Tools
+
+# Languages & Tools 👨‍💻 🛠:
+</br>
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,git,github,linux,vscode" />
-
+<!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/python.png" alt="python" width="120" hight="50">
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/java.png" alt="java"  width="100" hight="50">
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/ai.png" alt="AI" width="90" hight="50">
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/bash.png" alt="bash" width="100" hight="50">
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/datascience.png" alt="datascience" width="180" hight="50">
+</br>
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/google_cloud_platform.png" alt="google_cloud_platform" width="270" hight="50">
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/visualstudio_code.png" alt="visualstudio_code" width="240" hight="50">
+</br>
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/pc.png" alt="pc" width="100" hight="50">
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/edge.png" alt="edge" width="100" hight="50">
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/playstation@3x.png" alt="playstation" width="150" hight="50">
 </p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight" />
-</p>
-
----
-
-## 🌐 Connect With Me
-
-- 📧 Email: your-email@example.com
-- 🎥 YouTube: WeGrow
-- 💼 LinkedIn: Your LinkedIn Profile
-- 🌍 Portfolio: Coming Soon
-
----
-
-⭐ "Code, Learn, Build, Repeat."[![LinkedIn](https://img.shields.io/badge/LinkedIn-Coming%20Soon-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](#)
-
-</div>
+</br>
+</br>
+</br>
 
 
----
 
-<div align="center">
+# Contact Me :
 
-![Snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
+<p>
+ </br>
 
-</div>
 
----
+If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
 
-<!-- Capsule Footer -->
-<div align="center">
+<a href="mailto:rajancdy14@gmail.com">
+ <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
+</a>
+<a href="https://www.linkedin.com/in/ashutosh-saxena-7b326817b/">
+  <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/linkedin.png" />
+</br>
+</br>
+</br>
+</a>
 
-* Nepal 🇳🇵 | © Rajan [@ma-rajan](https://github.com/ma-rajan)*
 
-</div>
+
+<p align="center" >  
+  <a href="https://github.com/anuraghazra/github-readme-stats"> 
+<img  src="https://github-readme-stats.vercel.app/api?username=Xx-Ashutosh-xX&&show_icons=true&theme=radical"/>
+  </a>
+  </p>
+
+*************

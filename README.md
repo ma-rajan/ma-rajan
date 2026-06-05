@@ -38,29 +38,58 @@ A BCA student and aspiring web developer passionate about coding, Linux, and mod
 </br>
 
 <p align="center">
-  <!-- Row 1: Programming Languages & Core Tech -->
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C">
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
-  <img src="https://img.shields.io/badge/bash-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash">
-  <img src="https://img.shields.io/badge/cyber_security-%23E0115F.svg?style=for-the-badge&logo=shakti&logoColor=white" alt="Cyber Security">
-  
-  <br><br>
-
-  <!-- Row 2: Web Development Stack -->
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/react-%2320232A.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">
-
-  <br><br>
-
-  <!-- Row 3: Environment, Data & Tools -->
-  <img src="https://img.shields.io/badge/google_cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP">
-  <img src="https://img.shields.io/badge/visual_studio_code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
-  <img src="https://img.shields.io/badge/edge-%230078D7.svg?style=for-the-badge&logo=microsoft-edge&logoColor=white" alt="Edge">
-  <img src="https://img.shields.io/badge/playstation-%23003087.svg?style=for-the-badge&logo=playstation&logoColor=white" alt="PlayStation">
+  <table align="center" style="border: none; border-collapse: collapse;">
+    <!-- Row 1: Core Languages & Systems -->
+    <tr style="border: none;">
+      <td align="center" style="border: none; padding: 10px;">
+        <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C">
+      </td>
+      <td align="center" style="border: none; padding: 10px;">
+        <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+      </td>
+      <td align="center" style="border: none; padding: 10px;">
+        <img src="https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
+      </td>
+      <td align="center" style="border: none; padding: 10px;">
+        <img src="https://img.shields.io/badge/bash-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash">
+      </td>
+      <td align="center" style="border: none; padding: 10px;">
+        <img src="https://img.shields.io/badge/cyber_security-%23E0115F.svg?style=for-the-badge&logo=shakti&logoColor=white" alt="Cyber Security">
+      </td>
+    </tr>
+    <!-- Row 2: Web Development -->
+    <tr style="border: none;">
+      <td align="center" style="border: none; padding: 10px;">
+        <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+      </td>
+      <td align="center" style="border: none; padding: 10px;">
+        <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+      </td>
+      <td align="center" style="border: none; padding: 10px;">
+        <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+      </td>
+      <td align="center" style="border: none; padding: 10px;">
+        <img src="https://img.shields.io/badge/react-%2320232A.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">
+      </td>
+      <td align="center" style="border: none; padding: 10px;">
+        <img src="https://img.shields.io/badge/google_cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP">
+      </td>
+    </tr>
+    <!-- Row 3: Environment & Tools -->
+    <tr style="border: none;">
+      <td align="center" style="border: none; padding: 10px;" colspan="2">
+        <img src="https://img.shields.io/badge/visual_studio_code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
+      </td>
+      <td align="center" style="border: none; padding: 10px;">
+        <img src="https://img.shields.io/badge/edge-%230078D7.svg?style=for-the-badge&logo=microsoft-edge&logoColor=white" alt="Edge">
+      </td>
+      <td align="center" style="border: none; padding: 10px;" colspan="2">
+        <img src="https://img.shields.io/badge/playstation-%23003087.svg?style=for-the-badge&logo=playstation&logoColor=white" alt="PlayStation">
+      </td>
+    </tr>
+  </table>
 </p>
+
 
 </br>
 </br>

@@ -75,17 +75,7 @@ A BCA student and aspiring web developer passionate about coding, Linux, and mod
         <img src="https://img.shields.io/badge/google_cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP">
       </td>
     </tr>
-    <!-- Row 3: Environment & Tools -->
-    <tr style="border: none;">
-      <td align="center" style="border: none; padding: 10px;" colspan="2">
-        <img src="https://img.shields.io/badge/visual_studio_code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
-      </td>
-      <td align="center" style="border: none; padding: 10px;">
-        <img src="https://img.shields.io/badge/edge-%230078D7.svg?style=for-the-badge&logo=microsoft-edge&logoColor=white" alt="Edge">
-      </td>
-      <td align="center" style="border: none; padding: 10px;" colspan="2">
-        <img src="https://img.shields.io/badge/playstation-%23003087.svg?style=for-the-badge&logo=playstation&logoColor=white" alt="PlayStation">
-      </td>
+  
     </tr>
   </table>
 </p>
@@ -108,12 +98,10 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 <a href="mailto:rajancdy14@gmail.com">
  <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
 </a>
-<a href="https://www.linkedin.com/in/ashutosh-saxena-7b326817b/">
-  <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/linkedin.png" />
+
 </br>
 </br>
 </br>
-</a>
 
 
 

@@ -23,7 +23,6 @@ A BCA student and aspiring web developer passionate about coding, Linux, and mod
 - ✨ Web Development
 
 ### - Hobbies : 
-- ✨ Gaming Addict
 - ✨ Watching Anime
 - ✨ Reading Light Novels
 - ✨ vollyball
@@ -80,26 +79,3 @@ A BCA student and aspiring web developer passionate about coding, Linux, and mod
   </table>
 </p>
 
-
-</br>
-</br>
-</br>
-
-
-
-# Contact Me :
-
-<p>
- </br>
-
-
-If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
-
-<a href="mailto:rajancdy14@gmail.com">
- <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
-</a>
-
-</br>
-</br>
-</br>
-*************

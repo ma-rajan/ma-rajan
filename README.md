@@ -13,7 +13,7 @@
 
 ### - Hi, I'm Rajan 
 
-A BCA student and aspiring web developer passionate about coding, Linux, and modern web technologies. Currently learning React.js and building projects to grow my skills.
+A BCA student and aspiring web developer passionate about coding, Linux, and modern web technologies. Currently learning javascript and building projects to grow my skills.
 
 <img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
 

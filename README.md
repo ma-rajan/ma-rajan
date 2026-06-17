@@ -1,81 +1,119 @@
-# Konichiwa 👋
-
 <div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/208593.gif">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=3DDC97&background=00000000&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Rajan+Mahato;BCA+Student+-+Aspiring+Web+Developer;Learning+React.js+and+Linux+Internals;Building+one+git+commit+at+a+time">
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=0E8F66&background=00000000&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Rajan+Mahato;BCA+Student+-+Aspiring+Web+Developer;Learning+React.js+and+Linux+Internals;Building+one+git+commit+at+a+time">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=0E8F66&background=00000000&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Rajan+Mahato;BCA+Student+-+Aspiring+Web+Developer;Learning+React.js+and+Linux+Internals;Building+one+git+commit+at+a+time" alt="Typing animation introducing Rajan Mahato">
+</picture>
+
+<i>Code by day, anime by night.</i>
+
 </div>
 
-</br>
-</br>
-</br>
+<br/>
 
+```text
+rajan@ma-rajan
+──────────────────────────────────────
+OS         : Linux
+Shell      : bash
+Field      : BCA (Bachelor of Computer Application)
+Role       : Aspiring Web Developer
+Languages  : C, Java, JavaScript
+Learning   : React.js · Linux Internals · Web Dev
+Off Duty   : Anime · Light Novels · Volleyball
+Status     : Always compiling new skills
+```
 
-# About ME 💬 :
+<br/>
 
-### - Hi, I'm Rajan 
+<table width="100%">
+<tr>
+<td valign="top" width="50%">
 
-A BCA student and aspiring web developer passionate about coding, Linux, and modern web technologies. Currently learning javascript and building projects to grow my skills.
+**`~/currently-learning`**
 
-<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
+❯ React.js — component-based UI<br/>
+❯ Linux internals<br/>
+❯ Modern web development<br/>
+❯ Cyber security basics
 
-### - Learning :
-- ✨ React.js
-- ✨ Linux
-- ✨ Web Development
+</td>
+<td valign="top" width="50%">
 
-### - Hobbies : 
-- ✨ Watching Anime
-- ✨ Reading Light Novels
-- ✨ vollyball
+**`~/off-duty`**
 
-</br>
-</br>
-</br>
+❯ Watching anime (recs welcome)<br/>
+❯ Reading light novels<br/>
+❯ Spiking volleyballs
 
+</td>
+</tr>
+</table>
 
+<br/>
 
-# Languages & Tools 👨‍💻 🛠:
-</br>
+### `~/tech-stack`
 
-<p align="center">
-  <table align="center" style="border: none; border-collapse: collapse;">
-    <!-- Row 1: Core Languages & Systems -->
-    <tr style="border: none;">
-      <td align="center" style="border: none; padding: 10px;">
-        <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C">
-      </td>
-      <td align="center" style="border: none; padding: 10px;">
-        <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-      </td>
-      <td align="center" style="border: none; padding: 10px;">
-        <img src="https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
-      </td>
-      <td align="center" style="border: none; padding: 10px;">
-        <img src="https://img.shields.io/badge/bash-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash">
-      </td>
-      <td align="center" style="border: none; padding: 10px;">
-        <img src="https://img.shields.io/badge/cyber_security-%23E0115F.svg?style=for-the-badge&logo=shakti&logoColor=white" alt="Cyber Security">
-      </td>
-    </tr>
-    <!-- Row 2: Web Development -->
-    <tr style="border: none;">
-      <td align="center" style="border: none; padding: 10px;">
-        <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-      </td>
-      <td align="center" style="border: none; padding: 10px;">
-        <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-      </td>
-      <td align="center" style="border: none; padding: 10px;">
-        <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-      </td>
-      <td align="center" style="border: none; padding: 10px;">
-        <img src="https://img.shields.io/badge/react-%2320232A.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">
-      </td>
-      <td align="center" style="border: none; padding: 10px;">
-        <img src="https://img.shields.io/badge/google_cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP">
-      </td>
-    </tr>
-  
-    </tr>
-  </table>
-</p>
+<div align="center">
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=c,java,linux,bash,html,css,js,react,gcp&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=c,java,linux,bash,html,css,js,react,gcp&theme=light">
+  <img src="https://skillicons.dev/icons?i=c,java,linux,bash,html,css,js,react,gcp&theme=light" alt="Tech stack: C, Java, Linux, Bash, HTML, CSS, JavaScript, React, GCP">
+</picture>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Cyber%20Security-OWASP%20curious-3DDC97?style=for-the-badge&logo=owasp&logoColor=white" alt="Cyber Security badge">
+
+</div>
+
+<br/>
+
+### `~/github-stats`
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ma-rajan&show_icons=true&hide_border=true&bg_color=00000000&title_color=3DDC97&icon_color=FFB454&text_color=C9D1D9">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=ma-rajan&show_icons=true&hide_border=true&bg_color=00000000&title_color=0E8F66&icon_color=C97A1D&text_color=24292F">
+  <img src="https://github-readme-stats.vercel.app/api?username=ma-rajan&show_icons=true&hide_border=true&bg_color=00000000&title_color=0E8F66&icon_color=C97A1D&text_color=24292F" alt="Rajan's GitHub stats">
+</picture>
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=ma-rajan&hide_border=true&background=00000000&ring=3DDC97&fire=FFB454&currStreakLabel=3DDC97&sideLabels=C9D1D9&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9">
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=ma-rajan&hide_border=true&background=00000000&ring=0E8F66&fire=C97A1D&currStreakLabel=0E8F66&sideLabels=24292F&dates=57606A&currStreakNum=24292F&sideNums=24292F">
+  <img src="https://streak-stats.demolab.com/?user=ma-rajan&hide_border=true&background=00000000&ring=0E8F66&fire=C97A1D&currStreakLabel=0E8F66&sideLabels=24292F&dates=57606A&currStreakNum=24292F&sideNums=24292F" alt="Rajan's GitHub streak">
+</picture>
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ma-rajan&layout=compact&hide_border=true&bg_color=00000000&title_color=3DDC97&text_color=C9D1D9">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ma-rajan&layout=compact&hide_border=true&bg_color=00000000&title_color=0E8F66&text_color=24292F">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ma-rajan&layout=compact&hide_border=true&bg_color=00000000&title_color=0E8F66&text_color=24292F" alt="Rajan's most used languages">
+</picture>
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+<!-- 🔧 Swap "#" below for your real profile links (or delete any you don't use) -->
+<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0E8F66?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="#"><img src="https://img.shields.io/badge/Twitter-0E8F66?style=for-the-badge&logo=x&logoColor=white" alt="Twitter / X"></a>
+<a href="#"><img src="https://img.shields.io/badge/Email-0E8F66?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=ma-rajan&color=0e8f66&style=flat&label=Profile+Views" alt="Profile views">
+
+<sub>Thanks for stopping by 👋</sub>
+
+</div>

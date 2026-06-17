@@ -18,10 +18,6 @@ rajan@ma-rajan
 OS         : Linux
 Shell      : bash
 Field      : BCA (Bachelor of Computer Application)
-Role       : Aspiring Web Developer
-Languages  : C, Java, JavaScript
-Learning   : React.js · Linux Internals · Web Dev
-Off Duty   : Anime · Light Novels · Volleyball
 Status     : Always compiling new skills
 ```
 
@@ -31,12 +27,6 @@ Status     : Always compiling new skills
 <tr>
 <td valign="top" width="50%">
 
-**`~/currently-learning`**
-
-❯ React.js — component-based UI<br/>
-❯ Linux internals<br/>
-❯ Modern web development<br/>
-❯ Cyber security basics
 
 </td>
 <td valign="top" width="50%">

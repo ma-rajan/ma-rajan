@@ -23,23 +23,6 @@ Status     : Always compiling new skills
 
 <br/>
 
-<table width="100%">
-<tr>
-<td valign="top" width="50%">
-
-
-</td>
-<td valign="top" width="50%">
-
-**`~/off-duty`**
-
-❯ Watching anime (recs welcome)<br/>
-❯ Reading light novels<br/>
-❯ Spiking volleyballs
-
-</td>
-</tr>
-</table>
 
 <br/>
 

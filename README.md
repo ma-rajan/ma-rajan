@@ -1,92 +1,80 @@
-<div align="center">
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=rajan%40archlinux+%3A~%24;whoami+%3E%3E+web+dev+%2B+cybersecurity;booting+portfolio.sh+...;access+granted+%E2%9C%93" alt="Typing SVG" />
+</h1>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=3DDC97&background=00000000&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Rajan+Mahato;BCA+Student+-+Aspiring+Web+Developer;Learning+React.js+and+Linux+Internals;Building+one+git+commit+at+a+time">
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=0E8F66&background=00000000&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Rajan+Mahato;BCA+Student+-+Aspiring+Web+Developer;Learning+React.js+and+Linux+Internals;Building+one+git+commit+at+a+time">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=0E8F66&background=00000000&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Rajan+Mahato;BCA+Student+-+Aspiring+Web+Developer;Learning+React.js+and+Linux+Internals;Building+one+git+commit+at+a+time" alt="Typing animation introducing Rajan Mahato">
-</picture>
+<p align="center">
+  <img src="https://img.shields.io/badge/-Arch%20Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Hyprland-58E1FF?style=flat-square&logo=wayland&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Kitty%20%2B%20zsh-000000?style=flat-square&logo=gnu-bash&logoColor=white" />
+</p>
 
-<i>Code by day, anime by night.</i>
-
-</div>
-
-<br/>
-
-```text
-rajan@ma-rajan
-──────────────────────────────────────
-OS         : Linux
-Shell      : bash
-Field      : BCA (Bachelor of Computer Application)
-Status     : Always compiling new skills
+```bash
+┌──(rajan㉿archlinux)-[~/whoami]
+└─$ cat about.txt
 ```
 
-<br/>
+```
+> BCA student @ Birendra Multiple Campus, Tribhuvan University
+> Learning web development + cybersecurity in parallel
+> Believes the fastest way to learn is to build the damn thing
+> Daily driver: Arch Linux + Hyprland + Kitty + zsh
+```
 
+```bash
+┌──(rajan㉿archlinux)-[~/skills]
+└─$ ls -la
+```
 
-<br/>
+```
+drwxr-xr-x   web-dev/        PHP · MySQL · JavaScript · React · Vite · Tailwind
+drwxr-xr-x   security/       Web AppSec · Burp Suite · DVWA · PortSwigger Academy
+drwxr-xr-x   sysadmin/       Arch Linux · Apache/httpd · LAMP stack · dotfiles
+-rw-r--r--   philosophy.md   "simple, readable, working code > clever code"
+```
 
-### `~/tech-stack`
+```bash
+┌──(rajan㉿archlinux)-[~/projects]
+└─$ ./list_projects.sh --featured
+```
 
-<div align="center">
+### 🛠️ Featured Builds
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=c,java,linux,bash,html,css,js,react,gcp&theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=c,java,linux,bash,html,css,js,react,gcp&theme=light">
-  <img src="https://skillicons.dev/icons?i=c,java,linux,bash,html,css,js,react,gcp&theme=light" alt="Tech stack: C, Java, Linux, Bash, HTML, CSS, JavaScript, React, GCP">
-</picture>
+**[ArchQuery](https://github.com/ma-rajan/ArchQuery)** — natural-language → Arch Linux command CLI
+> Describe what you want in plain English, get back the exact pacman/AUR command. Hybrid fuzzy search (fuse.js) + LLM fallback, danger warnings on destructive ops, AUR-aware (yay/paru) equivalents.
 
-<br/><br/>
+**[seccheck](https://github.com/ma-rajan/seccheck)** — Developer Privacy/Security Checker CLI
+> Scans codebases for hardcoded secrets, exposed `.env` files, git hygiene issues, dependency CVEs, and misconfigurations. Ships with score trend tracking, CI exit codes, git-blame per finding, and fix-time estimates.
 
-<img src="https://img.shields.io/badge/Cyber%20Security-OWASP%20curious-3DDC97?style=for-the-badge&logo=owasp&logoColor=white" alt="Cyber Security badge">
+**CivicAI** — AI-powered civic issue reporting platform (Codefest 2026, SDG 11)
+> React/Node.js platform for reporting civic issues, with a graceful AI degradation chain (Gemini → Claude → offline classifier), live city map, and full admin resolution workflow.
 
-</div>
+```bash
+┌──(rajan㉿archlinux)-[~/security]
+└─$ ./roadmap.sh --status
+```
 
-<br/>
+```
+[x] TryHackMe — Jr Penetration Tester path
+[x] PortSwigger Web Security Academy — SQLi
+[ ] HackTheBox / PentesterLab
+[ ] Recon tooling — subfinder, httpx, nuclei, ffuf
+[ ] Vulnerability Disclosure Programs
+```
 
-### `~/github-stats`
+```bash
+┌──(rajan㉿archlinux)-[~]
+└─$ echo $CONTACT
+```
 
-<div align="center">
+<p align="left">
+  <a href="https://github.com/ma-rajan"><img src="https://img.shields.io/badge/GitHub-ma--rajan-181717?style=flat-square&logo=github" /></a>
+</p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ma-rajan&show_icons=true&hide_border=true&bg_color=00000000&title_color=3DDC97&icon_color=FFB454&text_color=C9D1D9">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=ma-rajan&show_icons=true&hide_border=true&bg_color=00000000&title_color=0E8F66&icon_color=C97A1D&text_color=24292F">
-  <img src="https://github-readme-stats.vercel.app/api?username=ma-rajan&show_icons=true&hide_border=true&bg_color=00000000&title_color=0E8F66&icon_color=C97A1D&text_color=24292F" alt="Rajan's GitHub stats">
-</picture>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ma-rajan&style=flat-square&color=00FF41" alt="profile views" />
+</p>
 
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=ma-rajan&hide_border=true&background=00000000&ring=3DDC97&fire=FFB454&currStreakLabel=3DDC97&sideLabels=C9D1D9&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9">
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=ma-rajan&hide_border=true&background=00000000&ring=0E8F66&fire=C97A1D&currStreakLabel=0E8F66&sideLabels=24292F&dates=57606A&currStreakNum=24292F&sideNums=24292F">
-  <img src="https://streak-stats.demolab.com/?user=ma-rajan&hide_border=true&background=00000000&ring=0E8F66&fire=C97A1D&currStreakLabel=0E8F66&sideLabels=24292F&dates=57606A&currStreakNum=24292F&sideNums=24292F" alt="Rajan's GitHub streak">
-</picture>
-
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ma-rajan&layout=compact&hide_border=true&bg_color=00000000&title_color=3DDC97&text_color=C9D1D9">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ma-rajan&layout=compact&hide_border=true&bg_color=00000000&title_color=0E8F66&text_color=24292F">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ma-rajan&layout=compact&hide_border=true&bg_color=00000000&title_color=0E8F66&text_color=24292F" alt="Rajan's most used languages">
-</picture>
-
-</div>
-
-<br/>
-
----
-
-<div align="center">
-
-<!-- 🔧 Swap "#" below for your real profile links (or delete any you don't use) -->
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0E8F66?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="#"><img src="https://img.shields.io/badge/Twitter-0E8F66?style=for-the-badge&logo=x&logoColor=white" alt="Twitter / X"></a>
-<a href="#"><img src="https://img.shields.io/badge/Email-0E8F66?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=ma-rajan&color=0e8f66&style=flat&label=Profile+Views" alt="Profile views">
-
-<sub>Thanks for stopping by 👋</sub>
-
-</div>
+```bash
+┌──(rajan㉿archlinux)-[~]
+└─$ █
+```

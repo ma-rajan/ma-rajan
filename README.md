@@ -2,7 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff41,100:0d1117&height=200&section=header&text=ma-rajan&fontSize=60&fontColor=0d1117&animation=fadeIn&fontAlignY=38&desc=root%40archlinux%20~%20%23&descAlignY=58&descSize=20&descColor=0d1117" width="100%"/>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2200&pause=900&color=00FF41&center=true&vCenter=true&width=550&lines=web+dev+%2B+cybersecurity;Arch+Linux+%7C+Hyprland+%7C+Kitty;always+building+something" />
 <br>
-![](https://skillicons.dev/icons?i=arch,linux,php,mysql,js,react,nodejs,bash,git&theme=dark&perline=9)
+![My Skills](https://skillicons.dev/icons?i=arch,linux,php,mysql,js,react,nodejs,bash,git&theme=dark&perline=9)
 </div>
 <br>
 <div align="center">

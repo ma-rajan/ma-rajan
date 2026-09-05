@@ -1,15 +1,29 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff41,100:0d1117&height=200&section=header&text=ma-rajan&fontSize=60&fontColor=0d1117&animation=fadeIn&fontAlignY=38&desc=root%40archlinux%20~%20%23&descAlignY=58&descSize=20&descColor=0d1117" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2200&pause=900&color=00FF41&center=true&vCenter=true&width=550&lines=web+dev+%2B+cybersecurity;Arch+Linux+%7C+Hyprland+%7C+Kitty;always+building+something" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00c853&height=200&section=header&text=ma-rajan&fontSize=60&fontColor=00ff9c&fontAlignY=35&desc=root@archlinux%20~%20%23&descAlignY=55&descSize=20&animation=fadeIn" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=500&lines=Building+with+PHP+%2B+MySQL+%2B+JS;Breaking+it+with+SQLi+%2B+Burp+Suite;always+building..." alt="Typing SVG" />
 
 </div>
 
 <br>
 
+## whoami
+
+- 🎓 BCA student, Dept. of Computer Applications, Birendra Multiple Campus (Tribhuvan University)
+- 🛠️ Building full-stack web apps with PHP/MySQL, learning React/Node on the side
+- 🔐 Currently deep in a bug bounty prep roadmap: **TryHackMe JPT → PortSwigger Web Security Academy → HackTheBox/PentesterLab → recon tooling → live disclosure programs**
+- 🧪 Practicing SQL injection (UNION-based extraction, `information_schema` enumeration, DBMS fingerprinting) hands-on in DVWA and PortSwigger labs — no live/unauthorized targets
+- 🐧 Daily driver: Arch Linux + Hyprland
+- 📍 Chitwan, Nepal
+
+<br>
+
+## stack
+
 <div align="center">
 
-![Arch](https://img.shields.io/badge/Arch-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -23,13 +37,67 @@
 
 <br>
 
+## security toolkit
+
 <div align="center">
 
-|  | |
-|:---:|:---|
-| 🧠 | **[ArchQuery](https://github.com/ma-rajan/ArchQuery)** — English → Arch command, instantly |
-| 🛡️ | **[seccheck](https://github.com/ma-rajan/seccheck)** — scans your code before hackers do |
-| 🏙️ | **CivicAI** — AI civic reporting, built in 48hrs @ Codefest |
+![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red)
+![PortSwigger](https://img.shields.io/badge/PortSwigger-FF6633?style=for-the-badge&logo=portswigger&logoColor=white)
+![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![DVWA](https://img.shields.io/badge/DVWA-CC0000?style=for-the-badge&logo=owasp&logoColor=white)
+
+</div>
+
+<br>
+
+## featured projects
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+
+### 🧠 [ArchQuery](https://github.com/ma-rajan/ArchQuery)
+Natural-language → Arch Linux command CLI. Fuzzy search over a curated command database with LLM fallback, AUR (yay/paru) equivalents, danger warnings, and usage history.
+
+`Node.js` `fuse.js` `Anthropic SDK`
+
+</td>
+<td width="50%">
+
+### 🛡️ [seccheck](https://github.com/ma-rajan/seccheck)
+Developer privacy/security scanner for Node.js codebases — hardcoded secrets, exposed `.env` files, git hygiene, dependency CVEs, misconfigurations, CI exit codes, and score trend tracking.
+
+`Node.js` `CLI`
+
+</td>
+</tr>
+<tr>
+<td width="50%" colspan="2">
+
+### 🏙️ CivicAI
+AI-powered civic issue reporting platform (SDG 11) — built in 48 hours at Codefest 2026. React/Vite frontend, Node/Express backend, graceful AI degradation chain (Gemini → Claude → offline classifier), and a full admin management system with role-based routing and analytics.
+
+`React` `Vite` `Node.js` `Express`
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br>
+
+## stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ma-rajan&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ma-rajan&theme=github-dark-blue&hide_border=true" width="49%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ma-rajan&layout=compact&theme=chartreuse-dark&hide_border=true" width="49%"/>
 
 </div>
 
@@ -37,16 +105,8 @@
 
 <div align="center">
 
-`TryHackMe` `PortSwigger` `HackTheBox` `Burp Suite` `DVWA`
+📫 **rajancdy14@gmail.com**
 
-</div>
-
-<br>
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/-ma--rajan-0d1117?style=for-the-badge&logo=github&logoColor=00FF41)](https://github.com/ma-rajan)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff41,100:0d1117&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c853,100:0d1117&height=100&section=footer" width="100%"/>
 
 </div>

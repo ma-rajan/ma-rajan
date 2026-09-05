@@ -1,119 +1,109 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:173B63,100:22D3EE&height=230&section=header&text=RAJAN&fontSize=76&fontColor=E6EDF3&fontAlignY=35&desc=BUILD.%20EXPLORE.%20SECURE.&descSize=16&descAlignY=57&animation=fadeIn" width="100%" alt="Rajan — Build. Explore. Secure." />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:ff1744&height=200&section=header&text=ma-rajan&fontSize=60&fontColor=ff3355&fontAlignY=35&desc=root@archlinux%20~%20%23&descAlignY=55&descSize=20&animation=fadeIn" width="100%"/>
 
-<a href="https://github.com/ma-rajan">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2800&pause=1000&color=22D3EE&center=true&vCenter=true&width=520&lines=Web+developer+in+the+making;Application+security+learner;Arch+Linux+%2B+Hyprland+enthusiast;From+curiosity+to+working+code." alt="Web developer, application security learner, and Arch Linux enthusiast" />
-</a>
-
-<p>Building useful applications. Understanding how they break. Learning to build them better.</p>
-
-<a href="mailto:rajancdy14@gmail.com"><img src="https://img.shields.io/badge/LET'S_TALK-22D3EE?style=for-the-badge&logo=gmail&logoColor=0D1117" alt="Email Rajan" /></a>
-<a href="https://github.com/ma-rajan?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_MY_WORK-161B22?style=for-the-badge&logo=github&logoColor=22D3EE" alt="Explore my repositories" /></a>
-
-<p><sub>📍 Chitwan, Nepal &nbsp; · &nbsp; 🎓 BCA @ Birendra Multiple Campus, Tribhuvan University</sub></p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=FF3355&center=true&vCenter=true&width=500&lines=Building+with+PHP+%2B+MySQL+%2B+JS;Breaking+it+with+SQLi+%2B+Burp+Suite;always+building..." alt="Typing SVG" />
 
 </div>
 
-## ⚡ Behind the terminal
+<br>
 
-```bash
-rajan@arch:~$ whoami
-```
+## whoami
 
-```yaml
-focus:       Web development & application security
-building:    Full-stack apps with PHP, MySQL & JavaScript
-exploring:   React, Node.js & secure application design
-environment: Arch Linux + Hyprland
-mindset:     Learn it. Build it. Understand it.
-```
+- 🎓 BCA student, Dept. of Computer Applications, Birendra Multiple Campus (Tribhuvan University)
+- 🛠️ Building full-stack web apps with PHP/MySQL, learning React/Node on the side
+- 🔐 Currently deep in a bug bounty prep roadmap: **TryHackMe JPT → PortSwigger Web Security Academy → HackTheBox/PentesterLab → recon tooling → live disclosure programs**
+- 🧪 Practicing SQL injection (UNION-based extraction, `information_schema` enumeration, DBMS fingerprinting) hands-on in DVWA and PortSwigger labs — no live/unauthorized targets
+- 🐧 Daily driver: Arch Linux + Hyprland
+- 📍 Chitwan, Nepal
 
-I enjoy turning ideas into working software and exploring what happens beneath the surface. My projects bring together web development, developer tools, and hands-on security learning.
+<br>
 
-## 🚀 Things I've built
+## stack
+
+<div align="center">
+
+![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+<br>
+
+## security toolkit
+
+<div align="center">
+
+![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red)
+![PortSwigger](https://img.shields.io/badge/PortSwigger-FF6633?style=for-the-badge&logo=portswigger&logoColor=white)
+![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![DVWA](https://img.shields.io/badge/DVWA-CC0000?style=for-the-badge&logo=owasp&logoColor=white)
+
+</div>
+
+<br>
+
+## featured projects
+
+<div align="center">
 
 <table>
 <tr>
-<td width="50%" valign="top">
-<h3>🏙️ CivicAI</h3>
-<p><strong>Local problems. Smarter reporting.</strong></p>
-<p>An AI-powered platform connecting citizen reports with tools for prioritization, tracking, and administration. Built during Codefest 2026.</p>
-<p><code>React</code> <code>Vite</code> <code>Node.js</code> <code>Express</code></p>
-<p><a href="https://github.com/ma-rajan/CiviAi"><strong>Explore the project →</strong></a></p>
+<td width="50%">
+
+### 🧠 [ArchQuery](https://github.com/ma-rajan/ArchQuery)
+Natural-language → Arch Linux command CLI. Fuzzy search over a curated command database with LLM fallback, AUR (yay/paru) equivalents, danger warnings, and usage history.
+
+`Node.js` `fuse.js` `Anthropic SDK`
+
 </td>
-<td width="50%" valign="top">
-<h3>🛡️ seccheck</h3>
-<p><strong>A security check for your codebase.</strong></p>
-<p>A CLI scanner for Node.js projects that checks secrets, exposed environment files, dependency vulnerabilities, and configuration issues.</p>
-<p><code>Node.js</code> <code>CLI</code> <code>Security</code></p>
-<p><a href="https://github.com/ma-rajan/seccheck"><strong>Explore the project →</strong></a></p>
+<td width="50%">
+
+### 🛡️ [seccheck](https://github.com/ma-rajan/seccheck)
+Developer privacy/security scanner for Node.js codebases — hardcoded secrets, exposed `.env` files, git hygiene, dependency CVEs, misconfigurations, CI exit codes, and score trend tracking.
+
+`Node.js` `CLI`
+
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
-<h3>🌱 Habit Tracker</h3>
-<p><strong>Small actions. Consistent progress.</strong></p>
-<p>A simple tool for tracking habits, building routines, and staying consistent with daily goals.</p>
-<p><a href="https://github.com/ma-rajan/Habbit-Tracker"><strong>Explore the project →</strong></a></p>
-</td>
-<td width="50%" valign="top">
-<h3>🧭 The workbench</h3>
-<p><strong>Learning through building.</strong></p>
-<p>Web experiments, programming exercises, and projects that document what I'm learning along the way.</p>
-<p><a href="https://github.com/ma-rajan?tab=repositories"><strong>Browse all repositories →</strong></a></p>
+<td width="50%" colspan="2">
+
+### 🏙️ CivicAI
+AI-powered civic issue reporting platform (SDG 11) — built in 48 hours at Codefest 2026. React/Vite frontend, Node/Express backend, graceful AI degradation chain (Gemini → Claude → offline classifier), and a full admin management system with role-based routing and analytics.
+
+`React` `Vite` `Node.js` `Express`
+
 </td>
 </tr>
 </table>
 
-## 🧰 My toolkit
+</div>
+
+<br>
+
+## stats
 
 <div align="center">
 
-<p><strong>BUILDING WITH</strong></p>
-<img src="https://skillicons.dev/icons?i=php,mysql,js,html,css&theme=dark" alt="PHP, MySQL, JavaScript, HTML, CSS" />
-
-<p><strong>EXPLORING & EXPANDING</strong></p>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,vite&theme=dark" alt="React, Node.js, Express, Vite" />
-
-<p><strong>DAILY ENVIRONMENT</strong></p>
-<img src="https://skillicons.dev/icons?i=arch,linux,bash,git&theme=dark" alt="Arch Linux, Linux, Bash, Git" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ma-rajan&theme=radical&hide_border=true&ring=ff3355&fire=ff3355&currStreakLabel=ff3355&background=0d1117" width="60%"/>
 
 </div>
 
-## 🔐 Security learning lab
-
-I practice web application security in hands-on labs, focusing on how vulnerabilities work and how developers can prevent them.
-
-<p>
-<img src="https://img.shields.io/badge/PortSwigger-161B22?style=flat-square&logo=portswigger&logoColor=FF6633" alt="PortSwigger" />
-<img src="https://img.shields.io/badge/Burp_Suite-161B22?style=flat-square&logo=burpsuite&logoColor=FF6633" alt="Burp Suite" />
-<img src="https://img.shields.io/badge/DVWA-161B22?style=flat-square&logo=owasp&logoColor=22D3EE" alt="DVWA" />
-</p>
-
-- **Web vulnerabilities** — SQL injection, database enumeration, and application behavior.
-- **Practical testing** — working through PortSwigger and DVWA exercises.
-- **Next steps** — reconnaissance skills and preparation for bug bounty programs.
-
-## 📈 Showing up & building
+<br>
 
 <div align="center">
 
-<a href="https://github.com/ma-rajan?tab=overview">
-<img src="https://streak-stats.demolab.com?user=ma-rajan&theme=tokyonight&hide_border=true&background=0D1117&ring=22D3EE&fire=22D3EE&currStreakLabel=22D3EE" width="520" alt="Rajan's GitHub contribution streak statistics" />
-</a>
+📫 **rajancdy14@gmail.com**
 
-</div>
-
----
-
-<div align="center">
-
-<h3>Have something interesting in mind?</h3>
-<p>Let's talk about web development, application security, or your Linux setup.</p>
-<p><a href="mailto:rajancdy14@gmail.com"><strong>rajancdy14@gmail.com</strong></a></p>
-<p><sub>Curiosity is the starting point. Building is the next step.</sub></p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:173B63,100:22D3EE&height=100&section=footer" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff1744,100:0d1117&height=100&section=footer" width="100%"/>
 
 </div>

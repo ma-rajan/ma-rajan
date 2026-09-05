@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00c853&height=200&section=header&text=ma-rajan&fontSize=60&fontColor=00ff9c&fontAlignY=35&desc=root@archlinux%20~%20%23&descAlignY=55&descSize=20&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:ff1744&height=200&section=header&text=ma-rajan&fontSize=60&fontColor=ff3355&fontAlignY=35&desc=root@archlinux%20~%20%23&descAlignY=55&descSize=20&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=500&lines=Building+with+PHP+%2B+MySQL+%2B+JS;Breaking+it+with+SQLi+%2B+Burp+Suite;always+building..." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=FF3355&center=true&vCenter=true&width=500&lines=Building+with+PHP+%2B+MySQL+%2B+JS;Breaking+it+with+SQLi+%2B+Burp+Suite;always+building..." alt="Typing SVG" />
 
 </div>
 
@@ -94,10 +94,10 @@ AI-powered civic issue reporting platform (SDG 11) — built in 48 hours at Code
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ma-rajan&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ma-rajan&theme=github-dark-blue&hide_border=true" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ma-rajan&show_icons=true&theme=radical&hide_border=true&count_private=true&icon_color=ff3355&title_color=ff3355&text_color=eeeeee&bg_color=0d1117" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ma-rajan&theme=radical&hide_border=true&ring=ff3355&fire=ff3355&currStreakLabel=ff3355&background=0d1117" width="49%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ma-rajan&layout=compact&theme=chartreuse-dark&hide_border=true" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ma-rajan&layout=compact&theme=radical&hide_border=true&title_color=ff3355&text_color=eeeeee&bg_color=0d1117" width="49%"/>
 
 </div>
 
@@ -107,6 +107,6 @@ AI-powered civic issue reporting platform (SDG 11) — built in 48 hours at Code
 
 📫 **rajancdy14@gmail.com**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c853,100:0d1117&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff1744,100:0d1117&height=100&section=footer" width="100%"/>
 
 </div>

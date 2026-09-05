@@ -94,10 +94,7 @@ AI-powered civic issue reporting platform (SDG 11) — built in 48 hours at Code
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ma-rajan&show_icons=true&theme=radical&hide_border=true&count_private=true&icon_color=ff3355&title_color=ff3355&text_color=eeeeee&bg_color=0d1117" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ma-rajan&theme=radical&hide_border=true&ring=ff3355&fire=ff3355&currStreakLabel=ff3355&background=0d1117" width="49%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ma-rajan&layout=compact&theme=radical&hide_border=true&title_color=ff3355&text_color=eeeeee&bg_color=0d1117" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ma-rajan&theme=radical&hide_border=true&ring=ff3355&fire=ff3355&currStreakLabel=ff3355&background=0d1117" width="60%"/>
 
 </div>
 

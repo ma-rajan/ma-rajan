@@ -10,7 +10,7 @@
 
 ## whoami
 
-- 🎓 BCA student, Dept. of Computer Applications, Birendra Multiple Campus (Tribhuvan University)
+- 🎓 BCA student
 - 🛠️ Building full-stack web apps with PHP/MySQL, learning React/Node on the side
 - 🔐 Currently deep in a bug bounty prep roadmap: **TryHackMe JPT → PortSwigger Web Security Academy → HackTheBox/PentesterLab → recon tooling → live disclosure programs**
 - 🧪 Practicing SQL injection (UNION-based extraction, `information_schema` enumeration, DBMS fingerprinting) hands-on in DVWA and PortSwigger labs — no live/unauthorized targets

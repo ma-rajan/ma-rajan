@@ -51,42 +51,6 @@
 
 <br>
 
-## featured projects
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%">
-
-### 🧠 [ArchQuery](https://github.com/ma-rajan/ArchQuery)
-Natural-language → Arch Linux command CLI. Fuzzy search over a curated command database with LLM fallback, AUR (yay/paru) equivalents, danger warnings, and usage history.
-
-`Node.js` `fuse.js` `Anthropic SDK`
-
-</td>
-<td width="50%">
-
-### 🛡️ [seccheck](https://github.com/ma-rajan/seccheck)
-Developer privacy/security scanner for Node.js codebases — hardcoded secrets, exposed `.env` files, git hygiene, dependency CVEs, misconfigurations, CI exit codes, and score trend tracking.
-
-`Node.js` `CLI`
-
-</td>
-</tr>
-<tr>
-<td width="50%" colspan="2">
-
-### 🏙️ CivicAI
-AI-powered civic issue reporting platform (SDG 11) — built in 48 hours at Codefest 2026. React/Vite frontend, Node/Express backend, graceful AI degradation chain (Gemini → Claude → offline classifier), and a full admin management system with role-based routing and analytics.
-
-`React` `Vite` `Node.js` `Express`
-
-</td>
-</tr>
-</table>
-
-</div>
 
 <br>
 
